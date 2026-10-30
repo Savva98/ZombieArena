@@ -26,6 +26,4 @@ Zombie Arena is a top-down, close-quarters survival shooter. The player is armed
 - **Left Click** — Shoot
 - **WASD / Arrow Keys** — Move
 
-## License
 
-Specify your license here (e.g., MIT).
