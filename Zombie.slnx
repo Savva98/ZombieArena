@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Zombie.vcxproj" Id="06d60a8e-4fce-4116-87ca-5b59a7aecdd8" />
+</Solution>
